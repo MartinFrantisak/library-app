@@ -1,0 +1,47 @@
+{
+    "editor.formatOnSave": true,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "editor.tabCompletion": "on",
+    "editor.snippetSuggestions": "top",
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.validate.enable": true,
+    "explorer.confirmDelete": false,
+    "editor.tokenColorCustomizations": {},
+    "editor.showUnused": true,
+    "workbench.colorCustomizations": {
+      "editorUnnecessaryCode.border": "#DD7AAB"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "bracketPairColorizer.depreciation-notice": false,
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "xml.server.binary.trustedHashes": [
+      "ac65ccf4b851614458289c877b6070ec8e08468ae5a73f5cd0b3e86a29fe72b4"
+    ],
+    "vsicons.dontShowNewVersionMessage": true
+  }
