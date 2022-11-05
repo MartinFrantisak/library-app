@@ -1,0 +1,27 @@
+.navigation-bar {
+  height: 50px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+  &__list {
+    list-style-type: none;
+    overflow: hidden;
+    color: #21201f;
+  }
+
+  &__logo {
+    height: 18px;
+    width: 20px;
+    margin: 0px 20px;
+  }
+
+  &__item {
+    float: right;
+    cursor: pointer;
+
+    a {
+      display: block;
+      padding: 15px 10px;
+      font-size: 0.95em;
+    }
+  }
+}

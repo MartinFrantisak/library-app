@@ -1,0 +1,22 @@
+.sidebar-item {
+  margin: 15px 15px;
+  &__title {
+    text-align: center;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: #00000029 0px 1px 4px;
+    color: #504d4b;
+
+    &:hover {
+      opacity: 1;
+      box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+    }
+  }
+
+  &-active {
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+    border-radius: 10px;
+    color: #21201f;
+  }
+}
